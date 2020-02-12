@@ -13,6 +13,8 @@ def find_max_value(array)
   array.length.times do  |y|
     if x < y 
       x = y
+    end
+  end
     return x
 end
 
