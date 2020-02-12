@@ -47,5 +47,5 @@ def find_min_value(array)
       x = array[y]
     end  
   end  
-  x
+  return x
 end
